@@ -1,0 +1,25 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "只是一个菜鸡前端的随笔而已。",
+  "type": "module",
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "deploy": "./deploy.sh",
+    "docs:preview": "vitepress preview"
+  },
+  "author": "xsqCoder",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.15.0",
+    "sass": "^1.60.0",
+    "vitepress": "1.0.0-alpha.64"
+  },
+  "dependencies": {
+    "@vue/theme": "^2.0.0",
+    "dat.gui": "^0.7.9",
+    "terser": "^5.16.8",
+    "vue": "^3.2.47"
+  }
+}
