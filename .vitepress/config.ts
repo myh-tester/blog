@@ -6,6 +6,7 @@ import baseConfig from '@vue/theme/config'
 import type { DefaultTheme } from 'vitepress'
 
 export default defineConfigWithTheme<DefaultTheme.Config>({
+  base: '/blog/',
   extends: baseConfig,
   srcDir: 'src',
   scrollOffset: 'header',

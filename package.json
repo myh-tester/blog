@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "vitepress dev",
     "build": "vitepress build",
-    "deploy": "./deploy.sh",
+    "deploy": "bash ./deploy.sh",
     "docs:preview": "vitepress preview"
   },
   "author": "xsqCoder",
