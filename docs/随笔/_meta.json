@@ -1,0 +1,16 @@
+[
+  {
+    "type": "dir",
+    "name": "python",
+    "label": "Python 日常",
+    "collapsible": true,
+    "collapsed": false
+  },
+  {
+    "type": "dir",
+    "name": "utils",
+    "label": "测试工具",
+    "collapsible": true,
+    "collapsed": false
+  }
+]

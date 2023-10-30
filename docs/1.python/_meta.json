@@ -1,0 +1,22 @@
+[
+  {
+    "type": "file",
+    "name": "index",
+    "label": "📚 Python3 导读"
+  },
+  {
+    "type": "dir",
+    "name": "basic",
+    "label": "基础"
+  },
+  {
+    "type": "dir",
+    "name": "advanced",
+    "label": "进阶"
+  },
+  {
+    "type": "dir",
+    "name": "pytest",
+    "label": "pytest 学习之路"
+  }
+]

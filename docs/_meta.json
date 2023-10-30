@@ -1,0 +1,46 @@
+[
+  {
+    "text": "📝 随笔",
+    "link": "/随笔/python/1.project",
+    "activeMatch": "^/随笔/"
+  },
+
+  {
+    "text": "📜 笔记",
+    "items": [
+      {
+        "text": "Python",
+        "link": "/1.python/index",
+        "activeMatch": "/1.python/index"
+      },
+      {
+        "text": "FastAPI",
+        "link": "/2.fastapi/index",
+        "activeMatch": "/2.fastapi/index"
+      },
+      {
+        "text": "MySQL",
+        "link": "/3.mysql/index",
+        "activeMatch": "/3.mysql/index"
+      },
+      {
+        "text": "Linux",
+        "link": "/4.linux/index",
+        "activeMatch": "/4.linux/index"
+      }
+    ]
+  },
+
+
+  {
+    "text": "🎉 面试",
+    "link": "/面试/interview/1.软件测试理论基石",
+    "activeMatch": "^/面试/"
+  },
+
+  {
+    "text": "🔧 工具",
+    "link": "/工具/",
+    "activeMatch": "^/工具/"
+  }
+]

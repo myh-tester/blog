@@ -1,0 +1,17 @@
+[
+  {
+    "type": "file",
+    "name": "1.project",
+    "label": "测试同学应该怎么规划自己 Py 工程?"
+  },
+  {
+    "type": "file",
+    "name": "2.excel-action",
+    "label": "手摸手教废你 Py 操作 Excel 文件"
+  },
+  {
+    "type": "file",
+    "name": "3.po",
+    "label": "深度理解 Selenium PO 模型"
+  }
+]

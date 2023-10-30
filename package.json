@@ -1,25 +1,18 @@
 {
-  "name": "blog",
+  "name": "rspress-doc",
   "version": "1.0.0",
-  "description": "只是一个菜鸡前端的随笔而已。",
-  "type": "module",
+  "private": true,
   "scripts": {
-    "dev": "vitepress dev",
-    "build": "vitepress build",
-    "deploy": "bash ./deploy.sh",
-    "docs:preview": "vitepress preview"
-  },
-  "author": "xsqCoder",
-  "license": "ISC",
-  "devDependencies": {
-    "@types/node": "^18.15.0",
-    "sass": "^1.60.0",
-    "vitepress": "1.0.0-alpha.64"
+    "dev": "rspress dev",
+    "build": "rspress build",
+    "preview": "rspress preview",
+    "deploy": "bash ./deploy.sh"
   },
   "dependencies": {
-    "@vue/theme": "^2.0.0",
-    "dat.gui": "^0.7.9",
-    "terser": "^5.16.8",
-    "vue": "^3.2.47"
+    "rspress": "^1.0.0",
+    "ts-node": "^10.9.1"
+  },
+  "devDependencies": {
+    "@types/node": "^16"
   }
 }
